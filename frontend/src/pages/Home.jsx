@@ -21,7 +21,7 @@ const Home = () => {
     <>
       <div className="flex flex-col-reverse md:flex-row gap-10 overflow-x-hidden py-10 px-4 sm:px-6 md:px-10 max-w-screen h-auto md:h-screen text-green-500">
         <div className="w-full md:w-[60%] text-center md:text-left">
-         <h1 className="text-lg sm:text-xl">Welcome to the Tasty-Bites</h1>
+         {/* <h1 className="text-lg sm:text-xl">Welcome to the Upsate Demo Site</h1> */}
           <h1 className="font-[Open_Sans] tracking-wider text-black text-4xl sm:text-6xl md:text-8xl mt-6 md:mt-10 mb-6 md:mb-10 md:pl-10">
             Expl
             <span className="inline-block border-4 border-green-500 rounded-full w-8 h-8 sm:w-10 sm:h-10 md:w-14 md:h-14 overflow-hidden">

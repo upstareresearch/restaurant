@@ -10,7 +10,7 @@ const Footer = () => {
       <div className="flex flex-col lg:flex-row justify-between gap-10 max-w-7xl mx-auto">
         <div className="lg:w-1/3 space-y-4">
           <h2 className="text-3xl font-bold text-green-600 font-[Helvetica]">
-            Tasty-Bites
+            Upstare-Research
           </h2>
           <p className="text-gray-300">
             Join our newsletter to get delicious recipes delivered straight to
@@ -74,28 +74,28 @@ const Footer = () => {
           <div className="flex space-x-4">
             <a
             target="_black"
-              href="https://www.ashok-dev.in/"
+              href="https://www.facebook.com/share/1G6cjTVHPX/"
               className="bg-green-200 text-gray-700 hover:bg-green-300 p-3 rounded-full"
             >
               <FaFacebookF />
             </a>
             <a
             target="_black"
-              href="https://www.ashok-dev.in/"
+              href="https://www.instagram.com/upstare_research?igsh=MXN6OWNsNWRrcXk3NA=="
               className="bg-green-200 text-gray-700 hover:bg-green-300 p-3 rounded-full"
             >
               <FaInstagram />
             </a>
             <a
             target="_black"
-              href="https://www.ashok-dev.in/"
+              href="https://www.upstareresearch.com/"
               className="bg-green-200 text-gray-700 hover:bg-green-300 p-3 rounded-full"
             >
               <IoEarth/>
             </a>
             <a
             target="_black"
-              href="https://www.ashok-dev.in/"
+              href="https://x.com/upstareresearch"
               className="bg-green-200 text-gray-700 hover:bg-green-300 p-3 rounded-full"
             >
               <FaTwitter />
@@ -105,7 +105,7 @@ const Footer = () => {
       </div>
 
       <div className="mt-10 border-t border-gray-300 pt-4 text-center text-sm text-gray-500">
-        © 2026 Tasty-Bites. All rights reserved. Designed with ❤️ by Ashok Yadav.
+        © 2026 Upstare Research. All rights reserved. Powered by Ashok Yadav.
       </div>
     </footer>
   );

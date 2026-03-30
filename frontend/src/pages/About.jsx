@@ -12,11 +12,11 @@ const About = () => {
     <div className="flex flex-col md:flex-row items-center justify-center min-h-screen p-8 gap-8 ">
       <div className="md:w-1/2 space-y-6">
         <h2 className="text-4xl font-bold text-green-600">
-          Tasty-Bites
+          Upstare-Research
         </h2>
         <p className="text-gray-500 text-lg">
           Welcome to{" "}
-          <span className="font-semibold text-green-500">Tasty-Bites</span> -
+          <span className="font-semibold text-green-500">Upstare-Research</span> -
           your ultimate destination for delicious, easy-to-follow recipes from
           around the world. Whether you're a beginner cook or a seasoned chef,
           our platform offers something for everyone!

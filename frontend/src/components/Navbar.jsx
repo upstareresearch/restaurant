@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { NavLink } from "react-router-dom";
 import { FiMenu, FiX } from "react-icons/fi";
-// import logo from "../images/upstare-logo.png"
+import logo from "../images/upstare-logo.png"
 
 const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -11,8 +11,7 @@ const Navbar = () => {
   return (
     <div className="flex justify-between items-center p-6 rounded-full border-2 relative bg-white">
       <h1 className="text-2xl font-[Helvetica] font-bold text-green-600">
-        Tasty-Bites
-        {/* <img className="h-10" src={logo} alt="" /> */}
+        <img className="h-10" src={logo} alt="" />
       </h1>
 
       <div
